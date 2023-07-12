@@ -1,0 +1,59 @@
+/* Home section css */
+.bgimage {
+    height:100vh;
+    background: url('/Images/portfolio-backgroundImage.jpg');
+    background-size:cover;
+    position:relative;
+}
+
+/* text css above hero image*/
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+}
+
+/* Style Contact Information */
+li {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Map Styling */
+iframe {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    border: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Style footer tab where Social media Icons are going to be */
+#footer-icons{
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+}
+
+/* Style Social Media Icons */
+#icon {
+    position: relative;
+    display: inline-block;
+    align-items: right;
+    margin-right: 2rem;
+}
