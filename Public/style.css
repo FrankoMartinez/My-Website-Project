@@ -51,7 +51,7 @@ iframe {
 }
 
 /* Style Social Media Icons */
-#icon {
+.icon {
     position: relative;
     display: inline-block;
     align-items: right;
