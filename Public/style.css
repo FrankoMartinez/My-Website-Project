@@ -56,4 +56,5 @@ iframe {
     display: inline-block;
     align-items: right;
     margin-right: 2rem;
+    cursor: pointer;
 }
