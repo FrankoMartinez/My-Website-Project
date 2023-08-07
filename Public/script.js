@@ -5,4 +5,3 @@ Array.from(collapsedNavbar).forEach(element => {
         console.log("Clicked");
     })
 });
-
